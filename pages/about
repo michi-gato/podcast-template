@@ -8,9 +8,8 @@ layout: default
 			<div class="column is-two-thirds-tablet">
 				<div class="content">
 					<h1>About</h1>
-						<p class="is-size-5-tablet"> Should We Make This is a podcast made by Flappy & Chappy. Hosted by comedian, Roxie Maisel, and performer, Carter Shocket, this podcast is a journey of Roxie and Carter's process in creating their next musical theater show. The project began in September 2019.</p>
-					<p> Special thanks to the <a target="_blank" href="https://metro.org/">Metropolitan New York Library Council (METRO 599 Studios)</a> (METRO) for the audio booth.</p>
-						<p class="is-size-5-tablet">Should We Make This is a podcast series that culminates to a musical theater production. The project is hosted by two multi-talented performers: Roxie Maisel and Carter Shocket. Sarah Nguyen is the Producer.</p>
+						<p class="is-size-5-tablet"> Should We Make This is a podcast made by Flappy & Chappy. Hosted by comedian, Roxie Maisel, and performer, Carter Shocket, this podcast is a journey of Roxie and Carter's process in creating their next musical theater show. The project began in September 2019 and will culminate to a live musical theatre production. Sarah Nguyen is the Producer.</p>
+					<p> Special thanks to the <a target="_blank" href="https://metro.org/">Metropolitan New York Library Council (METRO 599 Studios)</a> (METRO) for letting us record in their audio booth.</p>
 						<p class="is-size-5-tablet">
 				</div>
 			</div>
